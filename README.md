@@ -31,8 +31,8 @@ Run python manage.py runserver
 Access API at: http://localhost:8000/
 Screenshots below 
 
+![Screenshot 2025-06-03 203015](https://github.com/user-attachments/assets/37284261-876d-493f-893e-2b10f7f53abc)
 
-![Screenshot 2025-06-03 220132](https://github.com/user-attachments/assets/918dd3be-2cf1-47c3-a012-604d929e0804)
 ![Screenshot 2025-06-03 220151](https://github.com/user-attachments/assets/3fd387e7-d08d-42c1-a99d-37a8bd76d975)
 ![Screenshot 2025-06-03 220231](https://github.com/user-attachments/assets/ae01745a-56ec-4230-8ade-01009ef2e303)
 ![Screenshot 2025-06-03 220255](https://github.com/user-attachments/assets/13fdfbcb-ac1f-49e5-84ae-44e768802d40)
