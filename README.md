@@ -22,7 +22,6 @@ Assignments: /assign-doctor/
 
 Setup
 Clone repo and install requirements
-![image](https://github.com/user-attachments/assets/b42ba5d9-ef20-4971-bbcf-1df24379b9b8)
 
 Configure PostgreSQL in .env
 
